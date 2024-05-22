@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wangchuk99&theme=matrix" alt="wangchuk99" /></a> </p>
 
-- 🌱 I’m currently learning **React**
 - 💬 Ask me about **Java, Python, Spring Boot, Spring MVC, Angular and Javascript**
 - 📫 How to reach me **chachuk1999@gmail.com**
 
