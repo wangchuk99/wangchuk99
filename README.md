@@ -1,108 +1,65 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<h1 align="center">
-  Hi there, I'm Chador Wangchuk 👋
-</h1>
-
 <p align="center">
-  <em>Full-Stack Developer · Ruby on Rails · Angular · Based in Bhutan 🇧🇹</em>
+  <img src="./assets/banner.svg" width="100%" alt="Chador Wangchuk" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wangchuk99&label=Profile%20views&color=0e75b6&style=flat" alt="wangchuk99" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E85D04&center=true&vCenter=true&width=600&lines=Building+robust+Rails+APIs+%F0%9F%9A%80;Crafting+Angular+UIs+%E2%9C%A8;Clean+code+%7C+Scalable+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wangchuk99&theme=matrix&no-frame=true&margin-w=10" alt="wangchuk99 trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=wangchuk99&label=Profile+views&color=e85d04&style=flat-square" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/wangchuk99?label=Followers&style=flat-square&color=e85d04" alt="Followers" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 I build full-stack web applications with **Ruby on Rails** on the backend and **Angular** on the frontend
-- 🌱 Exploring **REST APIs**, **ActiveRecord**, **background jobs**, and modern **Rails patterns**
-- 💡 Passionate about clean, maintainable code and building products that solve real problems
-- 🧰 Comfortable across the stack — from database design to pixel-perfect UIs
-- 📍 Based in **Thimphu, Bhutan**
-- 📫 Reach me at **chachuk1999@gmail.com**
-- 💬 Ask me about **Ruby on Rails, Angular, JavaScript, Python, and PostgreSQL**
+> 💡 **Private contributions:** Most of my work lives in private organisation repositories. To surface this activity in the stats below, go to **GitHub Settings → Profile** and enable **"Include private contributions on my profile"**.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
-
-### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</p>
-
-### Tools & Others
-<p>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/Ionic_Logo.svg" alt="Ionic" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+## Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wangchuk99&show_icons=true&locale=en&theme=dark" alt="wangchuk99 stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wangchuk99&theme=dark" alt="wangchuk99 streak"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=wangchuk99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangchuk99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </p>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wangchuk99&theme=github_dark" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wangchuk99&theme=github_dark" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wangchuk99&theme=github_dark" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wangchuk99&theme=github_dark" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wangchuk99&theme=github_dark" height="180em" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=wangchuk99&theme=tokyonight&hide_border=true&background=0d1117&fire=e85d04&ring=e85d04&currStreakLabel=e85d04" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangchuk99&theme=tokyo-night&hide_border=true&area=true&area_color=e85d04&color=e85d04&line=e85d04&point=ffffff&bg_color=0d1117" alt="Contribution Graph" />
+</p>
+
+---
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wangchuk99&theme=tokyonight&no-frame=true&margin-w=12&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Connect
 
 <p align="left">
   <a href="https://github.com/wangchuk99" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/wangchuk_99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:chachuk1999@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
